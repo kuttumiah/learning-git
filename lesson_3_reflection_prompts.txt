@@ -1,2 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
+
+    If I would like to share the repo and get contribution from with others
