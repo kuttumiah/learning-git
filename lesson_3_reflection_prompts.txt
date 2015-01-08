@@ -19,3 +19,11 @@ use one instead of another?
     my local machine then I would also use "clone"
     When in local or remote I want to test with some features then I create
     "branch"
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    It helps to detect the state of local compared to the memote repository
+    and also helps to cooperate with others as it is possible to check
+    wheather there is any new change to the remote after my previous
+    pulling and also get them.
