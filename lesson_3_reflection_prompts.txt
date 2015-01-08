@@ -34,3 +34,10 @@ and what would be harder?
     Without Git or GitHub I've to make copy of the working directories and
     track the list of files that changed. And at the end merge them manually
     after checking.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    Ina a collaborative environment one should make change ina separate branch
+    rather than directly in master. But for single user directly changing into
+    master could save time if one is confident about his change.
