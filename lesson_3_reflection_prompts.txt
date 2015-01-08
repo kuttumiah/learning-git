@@ -8,3 +8,14 @@ automatically stay up-to-date with your remote repository?
 
     If I break something then I could revert that, that's why I want to
     do it manually
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    When I don't have permission to make change ones repository on Gitub at
+    that moment I "fork" the repo
+    I use clone when I want to make a copy of a repo on local machine from
+    one directory to another and when I want to copy a repo from GitHub to
+    my local machine then I would also use "clone"
+    When in local or remote I want to test with some features then I create
+    "branch"
