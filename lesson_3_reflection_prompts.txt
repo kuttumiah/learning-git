@@ -27,3 +27,10 @@ stored locally?
     and also helps to cooperate with others as it is possible to check
     wheather there is any new change to the remote after my previous
     pulling and also get them.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    Without Git or GitHub I've to make copy of the working directories and
+    track the list of files that changed. And at the end merge them manually
+    after checking.
